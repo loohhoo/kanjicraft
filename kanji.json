@@ -1,0 +1,421 @@
+{
+	"kanji": [{
+			"char": "一",
+			"o": "イチ",
+			"k": "ひと・つ",
+			"en": "one",
+			"grade":"jy_1",
+			"words": [{
+				"word": "一つ",
+				"furigana": "ひとつ",
+				"gloss": "one (thing)",
+				"sentence": "カバンを一つお願いします。",
+				"sentence_en": "One bag please."
+			},{
+				"word": "一月",
+				"furigana": "いちがつ",
+				"gloss": "January",
+				"sentence": "一月に発売されます。",
+				"sentence_en": "It will be released in January."
+			},{
+				"word": "一日",
+				"furigana": "ついたち",
+				"gloss": "1st (of a month)",
+				"sentence": "一日にから旅行します。",
+				"sentence_en": "I'll be traveling from the 1st."
+			},{
+				"word": "一番",
+				"furigana": "いちばん",
+				"gloss": "the 1st (in sequence), the most",
+				"sentence": "この曲は一番大好きです。",
+				"sentence_en": "I love this song the most."
+			},{
+				"word": "一人",
+				"furigana": "ひとり",
+				"gloss": "one person, alone",
+				"sentence": "一人暮らしなんて寂しいよ。",
+				"sentence_en": "Living alone is so sad."
+			},{
+				"word": "同一",
+				"furigana": "どういつ",
+				"gloss": "same, identical",
+				"sentence": "同一の結果が得られます。",
+				"sentence_en": "It will yield the same result."
+			}
+			]
+		},{
+			"char": "右",
+			"o": "ウ",
+			"k": "みぎ",
+			"en": "right (side)",
+			"grade":"jy_1",
+			"words": [{
+				"word": "右側",
+				"furigana": "みぎがわ",
+				"gloss": "right side",
+				"sentence": "右側の方が好きです。",
+				"sentence_en": "I like the one on the right."
+			},{
+				"word": "左右",
+				"furigana": "さゆう",
+				"gloss": "left and right",
+				"sentence": "首を左右に振る。",
+				"sentence_en": "Shake one's head left and right."
+			},{
+				"word": "右折する",
+				"furigana": "うせつする",
+				"gloss": "make a right turn",
+				"sentence": "右折すれば郵便局が見つかります。",
+				"sentence_en": "If you turn to the right you'll find the post office."
+			},{
+				"word": "右手",
+				"furigana": "みぎて",
+				"gloss": "right hand",
+				"sentence": "右手の人差し指で指差してください。",
+				"sentence_en": "Please point at it with your right index finger."
+			}]
+		},
+		{
+			"char": "雨",
+			"o": "ウ",
+			"k": "あめ、あま",
+			"en": "rain",
+			"grade":"jy_1",
+			"words": [{
+				"word": "雨天",
+				"furigana": "うてん",
+				"gloss": "rainy weather",
+				"sentence": "雨天なら山登りはできません。",
+				"sentence_en": "You can't go mountain climbing if it's rainy."
+			}, {
+				"word": "雨風",
+				"furigana": "あまかぜ",
+				"gloss": "wind and rain",
+				"sentence": "家は雨風にさらされている。",
+				"sentence_en": "The house is battered by wind and rain."
+			}, {
+				"word": "雨具",
+				"furigana": "あまぐ",
+				"gloss": "rain gear",
+				"sentence": "雨具を用意して出かけた。",
+				"sentence_en": "I went out prepared for rain."
+			}, {
+				"word": "降雨量",
+				"furigana": "こううりょう",
+				"gloss": "amount of rain fall",
+				"sentence": "ここの７月の平均降雨量はどのくらいですか。",
+				"sentence_en": "What's the average rainfall for July here?"
+			}]
+		},{
+			"char": "円",
+			"o": "エン",
+			"k": "まる・い",
+			"en": "Yen, round (flat surfaces)",
+			"grade":"jy_1",
+			"words": [{
+				"word": "円周",
+				"furigana": "えんしゅう",
+				"gloss": "circumference",
+				"sentence": "月の円周はほぼ７千マイルだ。",
+				"sentence_en": "The circumference of the moon is about 7,000 miles."
+			},{
+				"word": "円い",
+				"furigana": "まるい",
+				"gloss": "round (2d surfaces)",
+				"sentence": "地球が円いという考えをかつて人々は嘲笑した。",
+				"sentence_en": "People once laughed at those who thought the earth is round."
+			},{
+				"word": "円満",
+				"furigana": "えんまん",
+				"gloss": "completeness, satisfaction",
+				"sentence": "社長は円満退職しました。",
+				"sentence_en": "The company president resigned of his own free will."
+			},{
+				"word": "千円",
+				"furigana": "せんえん",
+				"gloss": "1000 yen",
+				"sentence": "千円玉はありませんか。",
+				"sentence_en": "Is there a 1000 yen coin?"
+			},{
+				"word": "円形",
+				"furigana": "えんけい",
+				"gloss": "circular (shape)",
+				"sentence": "円形のテーブルの方はいいんじゃない？",
+				"sentence_en": "Wouldn't a circle shaped table be better?"
+			}]
+		},{
+			"char": "王",
+			"o": "オウ",
+			"k": "",
+			"en": "king, ruler",
+			"grade":"jy_1",
+			"words": [{
+				"word": "王様",
+				"furigana": "おうさま",
+				"gloss": "king",
+				"sentence": "ライオンは動物の王様です。",
+				"sentence_en": "The lion is the king of the animals."
+			},{
+				"word": "女王",
+				"furigana": "じょおう",
+				"gloss": "queen",
+				"sentence": "女王はとてもきれいです。",
+				"sentence_en": "The queen is very beautiful."
+			},{
+				"word": "王女",
+				"furigana": "おうじょ",
+				"gloss": "princess",
+				"sentence": "王女はまた若くてそんなことをしてはいかん。",
+				"sentence_en": "The princess is still too young to do that sort of thing."
+			},{
+				"word": "王子",
+				"furigana": "おうじ",
+				"gloss": "prince",
+				"sentence": "王子は王様になる。",
+				"sentence_en": "The prince will become the king."
+			}]
+		},{
+			"char": "音",
+			"o": "オン、イン",
+			"k": "おと、ね",
+			"en": "sound, noise",
+			"grade":"jy_1",
+			"words": [{
+				"word": "音楽",
+				"furigana": "おんがく",
+				"gloss": "music",
+				"sentence": "働きながら音楽を聞くのが好きだ。",
+				"sentence_en": "I enjoy listening to music while I work."
+			},{
+				"word": "母音",
+				"furigana": "ぼいん",
+				"gloss": "vowel",
+				"sentence": "日本語の母音は「あ・い・う・え・お」です。",
+				"sentence_en": "The vowels in Japanese are a-i-u-e-o."
+			},{
+				"word": "足音",
+				"furigana": "あしおと",
+				"gloss": "footsteps",
+				"sentence": "足音が聞こえてる。",
+				"sentence_en": "I can hear footsteps."
+			},{
+				"word": "音符",
+				"furigana": "おんぷ",
+				"gloss": "musical note",
+				"sentence": "音符なんて読めない。",
+				"sentence_en": "I can't read sheet music."
+			},{
+				"word": "音色",
+				"furigana": "ねいろ",
+				"gloss": "tune, timbre",
+				"sentence": "ピアノは音色があってない。",
+				"sentence_en": "The piano sounds very bad / is out of tune."
+			}]
+		},{
+			"char": "下",
+			"o": "カ、ゲ",
+			"k": "した、しも、くだ・る、くだ・さる、さが・る、さげ・る、お・ろす、お・りる",
+			"en": "down, below, under, hang",
+			"grade":"jy_1",
+			"words": [{
+				"word": "下",
+				"furigana": "した",
+				"gloss": "beneath",
+				"sentence": "犬は木の下に休んでいた。",
+				"sentence_en": "The dog rested beneath the tree."
+			},{
+				"word": "下",
+				"furigana": "しも",
+				"gloss": "lower part",
+				"sentence": "この川の２キロほど下に橋がある。",
+				"sentence_en": "There's a bridge about 2 kilometers down this river."
+			},{
+				"word": "下",
+				"furigana": "もと",
+				"gloss": "under",
+				"sentence": "先生の指導の下に勉強しています。",
+				"sentence_en": "I'm studying under her guidance."
+			},{
+				"word": "下る",
+				"furigana": "くだる",
+				"gloss": "to go down, descend; issue (a ruling)",
+				"sentence": "裁断では不利な判断が下った。",
+				"sentence_en": "The court ruled unfavorably."
+			},{
+				"word": "下さる",
+				"furigana": "くださる",
+				"gloss": "give, be kind enough to do",
+				"sentence": "この絵は私にくださるのですか。",
+				"sentence_en": "Is this picture for me?"
+			},{
+				"word": "下ろす",
+				"furigana": "おろす",
+				"gloss": "to bring down, to unload, to drop off (a person), withdraw money",
+				"sentence": "銀行で１０万下ろしてください。",
+				"sentence_en": "Please withdraw a hundred thousand yen from the bank."
+			},{
+				"word": "下りる",
+				"furigana": "おりる",
+				"gloss": "to descend, to go down",
+				"sentence": "銀行で１０万下ろしてください。",
+				"sentence_en": "Please withdraw a hundred thousand yen from the bank."
+			}]
+		},{
+			"char": "火",
+			"o": "カ",
+			"k": "ひ",
+			"en": "fire",
+			"grade":"jy_1",
+			"words": [{
+				"word": "花火",
+				"furigana": "はなび",
+				"gloss": "fireworks",
+				"sentence": "祭りの花火はうるさいわよ。",
+				"sentence_en": "The festival fireworks are noisy."
+			},{
+				"word": "火山",
+				"furigana": "かざん",
+				"gloss": "volcano",
+				"sentence": "火山は煙を吐き出しているようだ。",
+				"sentence_en": "The volcano appears to be emitting smoke."
+			},{
+				"word": "火曜日",
+				"furigana": "かようび",
+				"gloss": "Tuesday",
+				"sentence": "今週の火曜日は休日となります。",
+				"sentence_en": "This Tuesday will be a holiday."
+			}]
+		},{
+			"char": "花",
+			"o": "カ",
+			"k": "はな",
+			"en": "flower",
+			"grade":"jy_1",
+			"words": [{
+				"word": "花粉",
+				"furigana": "かふん",
+				"gloss": "pollen",
+				"sentence": "花粉症の対策でも知っていませんか。",
+				"sentence_en": "Do you know of any remedies for pollen allergies?"
+			},{
+				"word": "花瓶",
+				"furigana": "かびん",
+				"gloss": "vase",
+				"sentence": "花瓶は壊れた。",
+				"sentence_en": "The vase is broken."
+			},{
+				"word": "開花する",
+				"furigana": "かいかする",
+				"gloss": "to bloom",
+				"sentence": "言語の能力は幼く開花したわ。",
+				"sentence_en": "Her language abilities blossomed early on."
+			}]
+		},{
+			"char": "貝",
+			"o": "かい",
+			"k": "バイ",
+			"en": "shellfish",
+			"grade":"jy_1",
+			"words": [{
+				"word": "貝殻",
+				"furigana": "かいがら",
+				"gloss": "seashell",
+				"sentence": "貝殻を拾いに行かない？",
+				"sentence_en": "Wanna go collecting seashells?"
+			},{
+				"word": "巻き貝",
+				"furigana": "まきがい",
+				"gloss": "snail, spiral shell",
+				"sentence": "巻き貝の渦巻きはきれいだと思う。",
+				"sentence_en": "I think the spirals on snail shells are pretty."
+			}]
+		},{
+			"char": "学",
+			"o": "ガク",
+			"k": "まな・ぶ",
+			"en": "to study, to learn",
+			"grade":"jy_1",
+			"words": [{
+				"word": "学習する",
+				"furigana": "がくしゅうする",
+				"gloss": "to study",
+				"sentence": "数学を学習しないと。",
+				"sentence_en": "I have to study math."
+			},{
+				"word": "数学",
+				"furigana": "すうがく",
+				"gloss": "math",
+				"sentence": "数学は難しいよ。",
+				"sentence_en": "Math is difficult."
+			},{
+				"word": "学ぶ",
+				"furigana": "まなぶ",
+				"gloss": "to learn",
+				"sentence": "自分で学ぶしかない。",
+				"sentence_en": "You have to learn it on your own."
+			}]
+		},{
+			"char": "気",
+			"o": "キ",
+			"k": "",
+			"en": "energy, spirit, air",
+			"grade":"jy_1",
+			"words": [{
+				"word": "病気",
+				"furigana": "びょうき",
+				"gloss": "sick, illness",
+				"sentence": "子供は病気になりやすいものだね。",
+				"sentence_en": "Children sure do get sick often."
+			},{
+				"word": "元気",
+				"furigana": "げんき",
+				"gloss": "good feeling, okay",
+				"sentence": "お元気ですか。",
+				"sentence_en": "How are you?"
+			},{
+				"word": "電気",
+				"furigana": "でんき",
+				"gloss": "electricity, lights (in a house)",
+				"sentence": "電気を消してよ。",
+				"sentence_en": "Turn off the lights."
+			},{
+				"word": "平気",
+				"furigana": "へいき",
+				"gloss": "calmness, all right",
+				"sentence": "僕は平気だ。",
+				"sentence_en": "I'm all right."
+			},{
+				"word": "天気",
+				"furigana": "てんき",
+				"gloss": "weather",
+				"sentence": "天気予報によって雨が振りそうだそうだからカサを持っていって。",
+				"sentence_en": "The weather said it might rain so take an umbrella with you."
+			}]
+		},{
+			"char": "九",
+			"o": "キュウ",
+			"k": "ここの",
+			"en": "nine",
+			"grade":"jy_1",
+			"words": [{
+				"word": "九つ",
+				"furigana": "ここのつ",
+				"gloss": "nine (things)",
+				"sentence": "この論文にはもう九つの誤りがあるんだよ。",
+				"sentence_en": "This essay has　nine mistakes in it so far."
+			},{
+				"word": "九階",
+				"furigana": "きゅうかい",
+				"gloss": "nine stories (building), nineth floor",
+				"sentence": "僕の事務所は九階にあります。",
+				"sentence_en": "My office is on the nineth floor."
+			}]
+		},
+		{"char": "休","o": "キュウ","k": "やす・む","en": "to rest, relax","grade": "休","words": [ {"word": "休む","furigana": "やすむ","gloss": "to rest, to relax","sentence": "木の下で休む。","sentence_en": "Relaxing under a tree."},{"word": "休憩","furigana": "きゅうけい","gloss": "break, intermission","sentence": "休憩終わり！","sentence_en": "Break time's over!"},{"word": "夏休み","furigana": "なつやすみ","gloss": "summer vacation","sentence": "夏休みなんか気持ちいいね。","sentence_en": "Summer break sure is nice."}]},
+		{"char": "玉","o": "キュウ","k": "たま","en": "ball, sphere","grade": "玉","words": [ {"word": "玉","furigana": "たま","gloss": "ball, sphere, bead, droplet","sentence": "玉のような汗。","sentence_en": "Sweat drops."},{"word": "目玉","furigana": "めだま","gloss": "eyeball","sentence": "目玉をくり抜かれる。","sentence_en": "Gouge out an eyeball."},{"word": "替え玉","furigana": "かえだま","gloss": "red herring","sentence": "替え玉を追う。","sentence_en": "Chase a red herring."}]},
+		{"char": "金","o": "キン","k": "かね","en": "money, gold","grade": "金","words": [ {"word": "お金","furigana": "おかね","gloss": "money","sentence": "ゆっくり生きたいならお金を貯えなければならない。","sentence_en": "If you want to live leisurely you have to save up money."},{"word": "金色","furigana": "きんいろ","gloss": "gold color, yellow","sentence": "金色の鉛筆は割高だよね。","sentence_en": "The gold pencil is pretty pricey."}]},
+		{"char": "空","o": "クウ","k": "あ・く、あ・ける、す・く、そら","en": "sky, empty","grade": "空","words": [ {"word": "空","furigana": "そら","gloss": "sky","sentence": "空は青くてきれいだ。","sentence_en": "The sky is pretty and blue."},{"word": "青空","furigana": "あおぞら","gloss": "blue sky","sentence": "冬の青空はあんまりない。","sentence_en": "Blue skies are rare in winter."},{"word": "空気","furigana": "くうき","gloss": "air, atmosphere; mood","sentence": "まったく空気を読めない人だ。","sentence_en": "He can't read the situation at all."},{"word": "空港","furigana": "くうこう","gloss": "airport","sentence": "何時に空港に行きましょうか。","sentence_en": "When should we head to the airport?"},{"word": "空く","furigana": "あく","gloss": "to become empty or vacant","sentence": "席が空いた。","sentence_en": "The seat is now vacant."},{"word": "空ける","furigana": "あける","gloss": "to empty something, go through something","sentence": "昨夜ビールを４本空けた。","sentence_en": "I went through 4 beers last night."},{"word": "空く","furigana": "すく","gloss": "become less crowded, be hungry","sentence": "おなかが空いた。","sentence_en": "I'm hungry."}]},
+		{"char": "月","o": "ガツ、ゲツ","k": "つき","en": "moon, month","grade": "月","words": [ {"word": "月","furigana": "つき","gloss": "the moon","sentence": "月が満ちる。","sentence_en": "The moon is waxing (becoming full)."},{"word": "一か月","furigana": "いっかげつ","gloss": "one month (duration)","sentence": "一か月で二回行ってしまった。","sentence_en": "I went there two times in one month."},{"word": "三月","furigana": "さんがつ","gloss": "March","sentence": "三月十二日に発売されます。","sentence_en": "It will be published on March 12th."}]},
+		{"char": "見","o": "ケン","k": "み・る、み・せる","en": "to see, to show","grade": "見","words": [ {"word": "見る","furigana": "みる","gloss": "to see, to look at","sentence": "何を見ているの？","sentence_en": "What are you watching?"},{"word": "意見","furigana": "いけん","gloss": "point of view, opinion","sentence": "人によって意見は違う。","sentence_en": "Opinions vary from person to person."},{"word": "見事","furigana": "みごと","gloss": "excellent, well-played","sentence": "攻撃は見事だった。","sentence_en": "Their attack was well-played."},{"word": "発見","furigana": "はっけん","gloss": "discovery, detection","sentence": "敵を発見しました！","sentence_en": "I've spotted the enemy!"},{"word": "見せる","furigana": "みせる","gloss": "to show, display","sentence": "見せたいものはあるのですが。","sentence_en": "There's something I'd like to show you."}]}	
+	]
+}
